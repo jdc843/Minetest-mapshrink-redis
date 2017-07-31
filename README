@@ -1,1 +1,3 @@
 A Python script to shrink a Minetest World map that uses Redis.
+
+I have included a small example map so that you will know what output to expect when you execute the script on a much larger map file.
